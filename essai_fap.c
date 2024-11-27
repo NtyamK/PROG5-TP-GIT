@@ -18,6 +18,7 @@ void aide()
 
 int main()
 {
+  // Je suis un commentaire
   char buffer[TAILLE_BUFFER];
   char commande;
   int nombre,priorite;
